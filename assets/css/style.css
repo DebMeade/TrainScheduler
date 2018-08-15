@@ -1,0 +1,13 @@
+.jumbotron {
+    background: url("../images/TrainImg.png");
+    text-align: center;
+}
+
+.head {
+    background-color: #f7f7f9;
+}
+
+.lead {
+    font-weight: 800px;
+    color: darkslategray;
+}
